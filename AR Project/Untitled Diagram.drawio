@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="5">
   <diagram name="Page-1" id="StZtiPLZ6SDIaMiqdbI1">
     <mxGraphModel dx="1434" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-1" value="ARTIFICIAL INTELLIGENCE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Randy Huerta &amp;amp; Abdul Issaka&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-1" value="ARTIFICIAL INTELLIGENCE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Randy Huerta &amp;amp; Abdul Issaka&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry width="850" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Summary of AI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Summary of AI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry y="160" width="850" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Intro&amp;nbsp; &amp;nbsp;Sources Topics" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=left;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Intro&amp;nbsp; &amp;nbsp;Sources Topics" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=left;" parent="1" vertex="1">
           <mxGeometry y="110" width="850" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-4" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;CAROUSEL: IMAGES OF DIFFERENT MOMENTS IN AI HISTORY&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-4" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;CAROUSEL: IMAGES OF DIFFERENT MOMENTS IN AI HISTORY&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry y="250" width="850" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="380" width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="500" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3KSV_KojVErBXAQ5BFWH-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
+        <mxCell id="3KSV_KojVErBXAQ5BFWH-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="115" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uYUD47957bx7N77h9qiZ-1" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.6;" vertex="1" parent="1">
+        <mxCell id="uYUD47957bx7N77h9qiZ-1" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.6;" parent="1" vertex="1">
           <mxGeometry x="200" y="130" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="uYUD47957bx7N77h9qiZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uYUD47957bx7N77h9qiZ-1" target="uYUD47957bx7N77h9qiZ-1">
+        <mxCell id="uYUD47957bx7N77h9qiZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="uYUD47957bx7N77h9qiZ-1" target="uYUD47957bx7N77h9qiZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -74,37 +74,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="stGwtSwRr6D5mC_7CRPG-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;HISTORY OF AI INTELLIGENCE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="stGwtSwRr6D5mC_7CRPG-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;HISTORY OF AI INTELLIGENCE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry y="-360" width="850" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="stGwtSwRr6D5mC_7CRPG-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="stGwtSwRr6D5mC_7CRPG-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="711" as="sourcePoint" />
             <mxPoint x="400" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Intro&amp;nbsp; &amp;nbsp;Sources Topics(dropdown)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;align=left;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Intro&amp;nbsp; &amp;nbsp;Sources Topics(dropdown)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;align=left;" parent="1" vertex="1">
           <mxGeometry y="-180" width="850" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="-180" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-3" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-3" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" parent="1" vertex="1">
           <mxGeometry x="170" y="-100" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-4" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-4" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-5" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-5" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;" parent="1" vertex="1">
           <mxGeometry x="170" y="430" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-7" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-7" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-8" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-8" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JJknNGsUOIEUnGh6iwnB-9" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="JJknNGsUOIEUnGh6iwnB-9" value="Description of different AI people , moment and inventions occured in AI history" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=50;size=10;position=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="400" y="590" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
@@ -115,54 +115,108 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-9" value="AI Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-9" value="AI Type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry y="-200" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-10" value="Narrow AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-10" value="Narrow AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="-120" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-11" value="General AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-11" value="General AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry y="10" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-12" value="Superintelligent AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-12" value="Superintelligent AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="140" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-13" value="Key Characteristics and Examples" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-13" value="Key Characteristics and Examples" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="230" y="-200" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-14" value="Info on Narrow AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-14" value="Info on Narrow AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="230" y="-120" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-15" value="Info General AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-15" value="Info General AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="230" y="10" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-16" value="Info Superintelligent AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-16" value="Info Superintelligent AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="230" y="140" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-17" value="Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-17" value="Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="600" y="-200" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-18" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-18" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="-120" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-19" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-19" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="600" y="10" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-20" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-20" value="Different Unique Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-21" value="Limitations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-21" value="Limitations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="820" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-22" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-22" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="820" y="-120" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-23" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-23" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="820" y="10" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_jX1qRFnvPoXKy-WcWCG-24" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_jX1qRFnvPoXKy-WcWCG-24" value="Limitations of this AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="820" y="140" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-2" value="Image/graph of the ai" style="swimlane;startSize=60;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="270" width="940" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="40" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="kW9SIw_AzBMmd6cCqYXl-2" target="kW9SIw_AzBMmd6cCqYXl-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="365" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kW9SIw_AzBMmd6cCqYXl-2" target="kW9SIw_AzBMmd6cCqYXl-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="179.5" as="sourcePoint" />
+            <mxPoint x="570" y="179.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="650" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-9" value="Description of the AI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="30" y="265" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-10" value="Description of the AI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="360" y="265" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW9SIw_AzBMmd6cCqYXl-11" value="Description of the AI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kW9SIw_AzBMmd6cCqYXl-2">
+          <mxGeometry x="660" y="265" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJSZpObxNucFzJEKdMOx-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Intro&amp;nbsp; &amp;nbsp;Sources Topics(dropdown)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry y="-250" width="940" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eJSZpObxNucFzJEKdMOx-2" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJSZpObxNucFzJEKdMOx-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-245" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rN9vcHbTG_ZPGz87ncxF-1" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;Different AI Types&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry y="-350" width="940" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZD1U65lVofbQeZqKPcQl" name="Page-5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

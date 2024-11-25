@@ -184,3 +184,34 @@
     left: -15px;
   }
 }
+
+.intro-image-1 {
+  animation: moveYup 2s linear forwards;
+}
+
+@keyframes moveYup {
+  0% {
+    opacity: 0%;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 100%;
+    transform: translateY(30px);
+  }
+}
+
+
+.intro-image-2 {
+  animation: moveYup 2s linear forwards;
+}
+
+@keyframes moveYdown {
+  0% {
+    opacity: 0%;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 100%;
+    transform: translateY(-30px);
+  }
+}

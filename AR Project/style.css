@@ -192,26 +192,27 @@
 @keyframes moveYup {
   0% {
     opacity: 0%;
-    transform: translateY(-30px);
+    transform: translateY(-600px);
   }
   100% {
     opacity: 100%;
-    transform: translateY(30px);
+    transform: translateY(50px);
   }
 }
 
 
 .intro-image-2 {
-  animation: moveYup 2s linear forwards;
+  animation: moveYdown 2s linear forwards;
 }
 
 @keyframes moveYdown {
   0% {
     opacity: 0%;
-    transform: translateY(30px);
+    transform: translateY(350px);
   }
   100% {
     opacity: 100%;
-    transform: translateY(-30px);
+    transform: translateY(50px);
   }
 }
+

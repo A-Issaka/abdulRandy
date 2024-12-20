@@ -204,7 +204,7 @@
 }
 
 .intro-image-1 {
-  animation: moveYup 2s linear forwards;
+  animation: moveYup 2.5s linear forwards;
 }
 
 @keyframes moveYup {
@@ -236,7 +236,7 @@
 
 
 .intro-image-2 {
-  animation: moveYdown 2s linear forwards;
+  animation: moveYdown 2.5s linear forwards;
 }
 
 @keyframes moveYdown {
